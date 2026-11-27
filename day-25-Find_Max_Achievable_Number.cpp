@@ -12,7 +12,7 @@
     Output: 6
     Explanation: 
     - Add 2 to num once to get 6.
-    
+
     Example 2:
     Input: num = 3, t = 2
     Output: 7
